@@ -8,6 +8,7 @@ it consists of 3 main subsystems the Microblaze microcontroller system , the bri
 ### MicroBlaze MCS 
 MicroBlaze MCS is delivered as a pre-configured system that includes the MicroBlaze 32-bit RISC soft-processor,local memory access, a coupled IO module, and a standard set of microcontroller peripherals. Through an easy-to-use graphical interface users can configure MicroBlaze MCS for optimum performance in the smallest possible footprint.
 ![1443560624138](https://github.com/user-attachments/assets/8e7189b1-4b9a-444e-bc4f-9ab2d1a29994)
+
 For more info on the microblaze mcs you can check xilinix product guide [PG116](https://docs.amd.com/v/u/en-US/pg116-microblaze-mcs)"
 ### The Bridge
 its just a simple signal wrapper that wraps the signals from the IO Module to the MMIO Subsystem 

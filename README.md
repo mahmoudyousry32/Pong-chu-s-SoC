@@ -1,4 +1,4 @@
-# Pong-chu-s-SoC
+# Pong Chu's SoC
 This repo contains all the necessary files to build a simple version of Pong chu's Fpro system without the video subsystem from chu's "FPGA Prototyping by SystemVerilog Examples"
 ## Overview
 ![chu_mcs](https://github.com/user-attachments/assets/135f0d06-2938-4722-a4ad-17820cc29f32)
